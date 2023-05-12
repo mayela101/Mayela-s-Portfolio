@@ -1,0 +1,115 @@
+html {
+    height: 100%;
+  }
+
+
+  body {
+   
+    display: flex;
+    height: 100%;
+
+    background-color: #14255E;
+  }
+  .word {
+   /*top, right, bottom, left 90px 100px 50px 150px;*/
+   /*text-align: center;*/
+   margin: 7% 100px 50px 150px;
+   position:absolute;
+   
+    color: white;
+    font: 800 normal 3.5em 'courier-new';
+
+    /*adds shadow behind text*/
+    /*text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;*/
+  }
+/*
+  ul {
+    list-style: none;
+    display: inline-block;
+    float: right;
+    position: relative;
+    bottom: 20px;
+  }
+*/
+a{
+  color:white;
+  font: 100 normal 1.5em 'courier-new';
+
+}
+li {
+   
+    position: relative;
+    display: inline-block;
+    top: 200px;
+    left:180px;
+  }
+  .link {
+    text-decoration: none;
+    padding: 5px;
+    color: #fff;
+    font-weight: bold;
+  }
+
+  #personal {
+    margin: 7% 100px 200px 600px;
+    
+    float: left;
+    align-content: center;
+  
+   
+  }
+
+  div.About {
+    position: absolute;
+    color:white;
+
+    padding: 30px;
+    top: 370px;
+    right: 1100px;
+    
+    text-align:left;
+
+   
+  }
+
+  div.Work
+  {
+    position: absolute;
+    color:white;
+
+    padding:30px;
+    top:580px;
+    
+
+    text-align:left;
+  
+  }
+  
+  #work{
+    position:absolute;
+    text-align:left;
+
+    right:800px;
+    left:800px;
+  }
+
+  div.Contact
+  {
+    position:absolute;
+    color:white;
+    padding:30px;
+    top: 800px;
+  }
+
+  .email
+  {
+    font: 50 normal 1em 'courier-new';
+  }
+  #Horiseon {
+   position:absolute;
+   top:615px;
+   right:600px;
+  
+   
+  }
+
