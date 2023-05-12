@@ -1,1 +1,13 @@
+Hi my name is Mayela.
 
+I'm a 2nd year Computer Science Student feel free to check out my first portfolio below!
+
+https://mayela101.github.io/Mayela-s-Portfolio/
+
+There are 4 text files within this repository:
+
+It should be noted that jquery-3.6.4.min.js is a downoadable Javascript library used to facilitate and simplify HTML code.
+I left it in my files for future reference but I actually linked the library through a CDN file. (index.html line 7)
+
+It should also be noted that I used a typing text animation that I found on a sandbox site (https://codepen.io/alvarotrigo/pen/ZEJgqLN) 
+The script.js file contains that code, I simply customized the text and linked the JQuery library to my index.html
